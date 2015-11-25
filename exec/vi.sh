@@ -12,4 +12,5 @@ cp ../files/.vimrc ~/.vimrc
 pushd ~/.vim/bundle
 git clone git://github.com/slim-template/vim-slim.git
 git clone https://github.com/mxw/vim-jsx.git
+git clone https://github.com/scrooloose/nerdtree.git
 popd
